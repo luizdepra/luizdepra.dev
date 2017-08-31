@@ -1,0 +1,22 @@
+baseurl = "http://luizdepra.com/"
+title = "luizdepra"
+
+theme = "lanyon"
+
+languagecode = "en-us"
+canonifyurls = true
+pygmentsuseclasses = true
+pygmentscodefences = true
+
+disqusshortname = "luizdepracom"
+googleanalytics = "UA-68141818-1"
+
+[permalinks]
+    post = ":year/:month/:day/:title/"
+    fixed = ":title/"
+
+[params]
+    title = "luizdepra"
+    tagline = "a sip of code"
+    author = "Luiz de Prá"
+    dateform = "Jan 2, 2006"
