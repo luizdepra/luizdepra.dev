@@ -1,7 +1,5 @@
 {
     "title": "About",
-    "sidebar": true,
-    "weight": "1"
 }
 
 <p class="message">

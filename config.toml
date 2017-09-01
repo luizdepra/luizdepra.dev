@@ -1,22 +1,35 @@
 baseurl = "http://luizdepra.com/"
 title = "luizdepra"
+author = "Luiz F. A. de Prá"
 
-theme = "lanyon"
+theme = "black-and-light"
 
-languagecode = "en-us"
+languagecode = "en"
+
 canonifyurls = true
-pygmentsuseclasses = true
+pygmentsstyle = "b2"
 pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 disqusshortname = "luizdepracom"
 googleanalytics = "UA-68141818-1"
 
 [permalinks]
-    post = ":year/:month/:day/:title/"
-    fixed = ":title/"
+    post = "post/:title/"
+    default = ":title/"
 
 [params]
-    title = "luizdepra"
-    tagline = "a sip of code"
-    author = "Luiz de Prá"
-    dateform = "Jan 2, 2006"
+    sitename = "luizdepra"
+
+[[menu.main]]
+    name = "Blog"
+    weight = -30
+    url  = "/"
+[[menu.main]]
+    name = "Github"
+    weight = -20
+    url  = "https://github.com/luizdepra"
+[[menu.main]]
+    name = "About"
+    weight = -10
+    url = "/about/"
