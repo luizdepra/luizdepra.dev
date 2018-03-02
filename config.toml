@@ -17,7 +17,7 @@ googleanalytics = "UA-68141818-1"
     default = ":title/"
 
 [params]
-    author = "Luiz F. A. de Prá"
+    author = "Luiz de Prá"
     info = "Software and Game Developer"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
