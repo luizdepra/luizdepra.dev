@@ -1,8 +1,7 @@
 baseurl = "//luizdepra.com/"
 title = "luizdepra"
-author = "Luiz F. A. de Prá"
 
-theme = "black-and-light"
+theme = "coder"
 
 languagecode = "en"
 
@@ -11,7 +10,6 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusshortname = "luizdepracom"
 googleanalytics = "UA-68141818-1"
 
 [permalinks]
@@ -19,17 +17,25 @@ googleanalytics = "UA-68141818-1"
     default = ":title/"
 
 [params]
-    sitename = "luizdepra"
+    author = "Luiz F. A. de Prá"
+    info = "Software and Game Developer"
+    description = "Luiz de Prá's personal website and blog"
+    keywords = "blog,developer,personal,python,c++,go,rust"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/luizdepra/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/luizdepra/"
 
 [[menu.main]]
     name = "Blog"
-    weight = -30
-    url  = "/"
-[[menu.main]]
-    name = "Github"
-    weight = -20
-    url  = "https://github.com/luizdepra"
+    weight = 1
+    url  = "/posts/"
 [[menu.main]]
     name = "About"
-    weight = -10
+    weight = 2
     url = "/about/"
