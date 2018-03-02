@@ -30,6 +30,10 @@ googleanalytics = "UA-68141818-1"
     name = "Twitter"
     weight = 2
     url = "https://twitter.com/luizdepra/"
+[[params.social]]
+    name = "RSS"
+    weight = 3
+    url = "/index.xml"
 
 [[menu.main]]
     name = "Blog"
