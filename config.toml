@@ -13,8 +13,8 @@ pygmentscodefencesguesssyntax = true
 googleanalytics = "UA-68141818-1"
 
 [permalinks]
-    post = "post/:title/"
-    default = ":title/"
+    posts = "posts/:slug/"
+    default = ":slug/"
 
 [params]
     author = "Luiz de Prá"
