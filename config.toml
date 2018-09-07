@@ -5,34 +5,42 @@ theme = "coder"
 
 languagecode = "en"
 
+paginate = 20
 canonifyurls = true
-pygmentsstyle = "b2"
+
+pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleanalytics = "UA-68141818-1"
-
-[permalinks]
-    posts = "posts/:slug/"
-    default = ":slug/"
+disqusShortname = "luizdepracom"
 
 [params]
     author = "Luiz de Prá"
+    avatarurl = "images/avatar.jpg"
     info = "Software and Game Developer"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
 
 [[params.social]]
     name = "Github"
+    icon = "fab fa-github"
     weight = 1
     url = "https://github.com/luizdepra/"
 [[params.social]]
     name = "Twitter"
+    icon = "fab fa-twitter"
     weight = 2
     url = "https://twitter.com/luizdepra/"
 [[params.social]]
-    name = "RSS"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
     weight = 3
+    url = "https://www.linkedin.com/in/luizdepra/"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss-square"
+    weight = 4
     url = "/index.xml"
 
 [[menu.main]]
