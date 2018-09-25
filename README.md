@@ -1,3 +1,3 @@
-# luizdepra.github.io
+# luizdepra.com
 
 Luiz's blog.
