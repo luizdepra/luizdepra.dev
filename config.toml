@@ -24,6 +24,8 @@ disqusShortname = "luizdepracom"
 
     inverted = true
 
+    custom_css = ["css/custom.css"]
+
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"

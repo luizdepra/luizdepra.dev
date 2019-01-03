@@ -1,6 +1,6 @@
 +++ 
 draft = true
-date = 2018-09-11T17:19:43-03:00
+date = 2018-09-11
 title = "Three months of Rust"
 slug = "three-months-of-rust"
 tags = ["rust"]
