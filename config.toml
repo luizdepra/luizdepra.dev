@@ -22,6 +22,8 @@ disqusShortname = "luizdepracom"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
 
+    inverted = true
+
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
