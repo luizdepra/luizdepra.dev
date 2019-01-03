@@ -1,0 +1,5 @@
+figure.right-aligned > img {
+  float: right;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
