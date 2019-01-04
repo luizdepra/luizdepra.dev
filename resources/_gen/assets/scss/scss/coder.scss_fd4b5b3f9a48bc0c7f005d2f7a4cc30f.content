@@ -8,7 +8,6 @@ html {
   font-size: 62.5%; }
 
 body {
-  display: flex;
   color: #212121;
   background-color: #FAFAFA;
   font-family: Merriweather, Georgia, serif;
@@ -180,6 +179,7 @@ img {
 
 .content {
   flex: 1;
+  display: flex;
   margin-top: 1.6rem;
   margin-bottom: 3.2rem; }
   .content article header {
@@ -242,7 +242,6 @@ img {
 
 .centered {
   display: flex;
-  height: 100%;
   align-items: center;
   justify-content: center; }
   .centered .about {

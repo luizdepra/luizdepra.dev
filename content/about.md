@@ -4,7 +4,7 @@ title = "About Me"
 slug = "about" 
 +++
 
-{{< figure src="/images/us.jpg" alt="She and I" class="right-aligned" width="50%" height="50%" >}}
+{{< figure src="/images/us.jpg" alt="She and I" class="right-aligned" >}}
 
 My name is Luiz de Prá and I live in Curitiba, Brazil, with my wife and dog. Currently, I'm working as a python developer at [olist][olist]. Before that, I was a C++ and C# developer, and I also had a little experience as a game developer. I have a bachelor's degree in computer science from [Universidade Federal do Paraná][ufpr], and a game development specialization from the [Pontifícia Universidade Católica do Paraná][pucpr].
 
