@@ -4,6 +4,7 @@ title = "luizdepra"
 theme = "coder"
 
 languagecode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
@@ -14,6 +15,11 @@ pygmentscodefencesguesssyntax = true
 
 googleanalytics = "UA-68141818-1"
 disqusShortname = "luizdepracom"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
 
 [params]
     author = "Luiz de Prá"
