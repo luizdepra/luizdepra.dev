@@ -195,6 +195,10 @@ img {
           line-height: 4.4rem; } }
   .content article footer {
     margin-top: 4.0rem; }
+    .content article footer .see-also {
+      margin: 3.2rem 0; }
+      .content article footer .see-also h3 {
+        margin: 3.2rem 0; }
   .content .post .post-title {
     margin-bottom: .75em; }
   .content .post .post-meta i {
@@ -205,6 +209,14 @@ img {
   .content .post .post-meta .date .posted-on {
     margin-left: 0;
     margin-right: 1.5rem; }
+  .content figure {
+    margin: 0;
+    padding: 0; }
+  .content figcaption p {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.6rem;
+    margin: 0; }
 
 .avatar img {
   width: 20rem;
@@ -223,21 +235,21 @@ img {
     @media only screen and (max-width: 768px) {
       .list ul li {
         margin: 1.6rem 0 1.6rem 0; } }
-    .list ul li span {
+    .list ul li .date {
       display: inline-block;
       width: 20.0rem;
       text-align: right;
       margin-right: 3.0rem; }
       @media only screen and (max-width: 768px) {
-        .list ul li span {
+        .list ul li .date {
           display: block;
           text-align: left; } }
-    .list ul li a {
+    .list ul li .title {
       font-size: 1.8rem;
       color: #212121;
       font-family: Lato, Helvetica, sans-serif;
       font-weight: 700; }
-      .list ul li a:hover, .list ul li a:focus {
+      .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
 
 .centered {
@@ -371,18 +383,22 @@ img {
 
 .pagination {
   margin-top: 6.0rem;
-  text-align: center; }
+  text-align: center;
+  font-family: Lato, Helvetica, sans-serif; }
   .pagination li {
     display: inline;
-    text-align: center; }
+    text-align: center;
+    font-weight: 700; }
     .pagination li span {
       margin: 0;
       text-align: center;
       width: 3.2rem; }
-    .pagination li a span {
-      margin: 0;
-      text-align: center;
-      width: 3.2rem; }
+    .pagination li a {
+      font-weight: 300; }
+      .pagination li a span {
+        margin: 0;
+        text-align: center;
+        width: 3.2rem; }
 
 .footer {
   width: 100%;

@@ -21,9 +21,9 @@ body.inverted {
   body.inverted table td, body.inverted table th {
     border: 2px solid #fafafa; }
 
-body.inverted .content .list ul li a {
+body.inverted .content .list ul li .title {
   color: #fafafa; }
-  body.inverted .content .list ul li a:hover, body.inverted .content .list ul li a:focus {
+  body.inverted .content .list ul li .title:hover, body.inverted .content .list ul li .title:focus {
     color: #f44336; }
 
 body.inverted .content .centered .about ul li a {
@@ -51,13 +51,11 @@ body.inverted .navigation a:hover, body.inverted .navigation a:focus {
   body.inverted .navigation #menu-toggle:checked + label {
     color: #424242; } }
 
-body.inverted .navigation .menu-button {
-  display: none; }
-  @media only screen and (max-width: 768px) {
-    body.inverted .navigation .menu-button {
-      color: #fafafa; }
-      body.inverted .navigation .menu-button:hover, body.inverted .navigation .menu-button:focus {
-        color: #f44336; } }
+@media only screen and (max-width: 768px) {
+  body.inverted .navigation .menu-button {
+    color: #fafafa; }
+    body.inverted .navigation .menu-button:hover, body.inverted .navigation .menu-button:focus {
+      color: #f44336; } }
 
 body.inverted .footer a {
   color: #f44336; }
