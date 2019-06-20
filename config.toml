@@ -9,7 +9,7 @@ defaultcontentlanguage = "en"
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "bw"
+pygmentsuseclasses = true
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -30,7 +30,7 @@ disqusShortname = "luizdepracom"
 
     inverted = true
 
-    custom_css = ["css/custom.css"]
+    custom_css = ["css/custom.css", "css/syntax.css"]
 
 [[params.social]]
     name = "Github"

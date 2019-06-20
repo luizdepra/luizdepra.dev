@@ -5,6 +5,10 @@ figure.right-aligned > img {
   margin: 0 0 2rem 2rem;
 }
 
+figure.centered {
+    text-align: center;
+}
+
 @media only screen and (max-width: 768px) {
   figure.right-aligned > img {
     float: none;
