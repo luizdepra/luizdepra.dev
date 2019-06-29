@@ -18,6 +18,18 @@
   force = true
 
 [[redirects]]
+  from = "https://luizdepra.com.br/*"
+  to = "https://luizdepra.dev/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.luizdepra.com.br/*"
+  to = "https://luizdepra.dev/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://luizdepra-website.netlify.com/*"
   to = "https://luizdepra.dev/:splat"
   status = 301
