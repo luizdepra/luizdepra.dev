@@ -27,7 +27,7 @@ disqusShortname = "luizdepracom"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
 
-    inverted = true
+    colorscheme = "auto"
 
     custom_css = ["css/custom.css", "css/syntax.css"]
 
