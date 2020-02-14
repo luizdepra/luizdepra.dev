@@ -150,6 +150,9 @@ table tr th:last-child {
 img {
   max-width: 100%; }
 
+figure {
+  text-align: center; }
+
 .wrapper {
   display: flex;
   flex-direction: column;
