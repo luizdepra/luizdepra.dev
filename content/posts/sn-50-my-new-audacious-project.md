@@ -1,6 +1,6 @@
 ---
 title: "SN-50: My new audacious project"
-date: 2020-02-10
+date: 2020-02-14
 slug: sn-50-my-new-audacious-project
 tags: ["rust", "fatansy-console", "sn-50"]
 categories: ["SN-50", "Rust"]
