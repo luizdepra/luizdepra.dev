@@ -13,7 +13,11 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleanalytics = "UA-68141818-1"
-disqusShortname = "luizdepracom"
+
+[utteranc]
+    repo = "luizdepra/luizdepra.com"
+    issueTerm = "pathname"
+    theme = "preferred-color-scheme"
 
 [taxonomies]
     category = "categories"
@@ -27,7 +31,7 @@ disqusShortname = "luizdepracom"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
 
-    colorscheme = "auto"
+    colorscheme = "dark"
 
     custom_css = ["css/custom.css", "css/syntax.css"]
 
