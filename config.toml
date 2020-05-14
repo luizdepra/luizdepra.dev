@@ -14,11 +14,6 @@ pygmentscodefencesguesssyntax = true
 
 googleanalytics = "UA-68141818-1"
 
-[utteranc]
-    repo = "luizdepra/luizdepra.com"
-    issueTerm = "pathname"
-    theme = "preferred-color-scheme"
-
 [taxonomies]
     category = "categories"
     series = "series"
@@ -34,6 +29,11 @@ googleanalytics = "UA-68141818-1"
     colorscheme = "dark"
 
     custom_css = ["css/custom.css", "css/syntax.css"]
+
+[params.utteranc]
+    repo = "luizdepra/luizdepra.com"
+    issueTerm = "pathname"
+    theme = "preferred-color-scheme"
 
 [[params.social]]
     name = "Github"
