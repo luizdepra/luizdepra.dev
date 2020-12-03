@@ -6,6 +6,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 paginate = 20
+canonifyURLs = true
 
 pygmentsUseClasses = true
 pygmentsCodeFences = true
