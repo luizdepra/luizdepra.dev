@@ -2,17 +2,14 @@ title = "luizdepra"
 
 theme = "coder"
 
-languagecode = "en"
-defaultcontentlanguage = "en"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 paginate = 20
-canonifyurls = true
 
-pygmentsuseclasses = true
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-googleanalytics = "UA-68141818-1"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
 
 [taxonomies]
     category = "categories"
@@ -21,46 +18,52 @@ googleanalytics = "UA-68141818-1"
 
 [params]
     author = "Luiz de Prá"
-    avatarurl = "images/avatar.jpg"
-    info = "Software and Game Developer"
     description = "Luiz de Prá's personal website and blog"
     keywords = "blog,developer,personal,python,c++,go,rust"
+    info = "Software Engineer and Game Developer"
+    avatarURL = "images/avatar.jpg"
 
-    colorscheme = "dark"
+    dateFormat = "2006-01-02"
 
-    custom_css = ["css/custom.css", "css/syntax.css"]
+    colorScheme = "dark"
+    hideColorSchemeToggle = true
+
+    customCSS = ["css/custom.css", "css/syntax.css"]
+
+[params.goatCounter]
+    code = "luizdepra"
 
 [params.utteranc]
     repo = "luizdepra/luizdepra.com"
     issueTerm = "pathname"
-    theme = "preferred-color-scheme"
+    theme = "github-dark"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-github"
     weight = 1
     url = "https://github.com/luizdepra/"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter"
+    icon = "fa fa-twitter"
     weight = 2
     url = "https://twitter.com/luizdepra/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/luizdepra/"
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss-square"
+    icon = "fa fa-rss-square"
     weight = 4
     url = "/index.xml"
 
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url  = "posts/"
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "/about/"
+    url = "about/"
