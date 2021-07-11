@@ -4,6 +4,7 @@ theme = "coder"
 
 languageCode = "en"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 paginate = 20
 canonifyURLs = true
@@ -15,62 +16,119 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
 [taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+category = "categories"
+series = "series"
+tag = "tags"
 
 [params]
-    author = "Luiz de Prá"
-    description = "Luiz de Prá's personal website and blog"
-    keywords = "blog,developer,personal,python,c++,go,rust"
-    info = "Software Engineer and Game Developer"
-    avatarURL = "images/avatar.jpg"
+author = "Luiz de Prá"
+avatarURL = "images/avatar.jpg"
 
-    dateFormat = "2006-01-02"
+dateFormat = "2006-01-02"
 
-    colorScheme = "dark"
-    hideColorSchemeToggle = true
+colorScheme = "dark"
+hideColorSchemeToggle = true
 
-    customCSS = ["css/custom.css", "css/syntax.css"]
+customCSS = ["css/custom.css", "css/syntax.css"]
 
 [params.goatCounter]
-    code = "luizdepra"
+code = "luizdepra"
 
 [params.utteranc]
-    repo = "luizdepra/luizdepra.com"
-    issueTerm = "pathname"
-    theme = "github-dark"
+repo = "luizdepra/luizdepra.com"
+issueTerm = "pathname"
+theme = "github-dark"
 
-[[params.social]]
-    name = "Github"
-    icon = "fa fa-github"
-    weight = 1
-    url = "https://github.com/luizdepra/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
-    weight = 2
-    url = "https://twitter.com/luizdepra/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/luizdepra/"
-[[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss-square"
-    weight = 4
-    url = "/index.xml"
+[languages.en]
+languageName = ":uk:"
 
-[[menu.main]]
-    name = "Now"
-    weight = 1
-    url  = "now/"
-[[menu.main]]
-    name = "Blog"
-    weight = 2
-    url  = "posts/"
-[[menu.main]]
-    name = "About"
-    weight = 3
-    url = "about/"
+[languages.en.params]
+description = "Luiz de Prá's personal website and blog"
+keywords = "blog,developer,personal,software,python,c++,go,rust"
+info = "Software Engineer and Game Developer"
+
+[[languages.en.params.social]]
+name = "Github"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/luizdepra/"
+
+[[languages.en.params.social]]
+name = "Twitter"
+icon = "fa fa-twitter"
+weight = 2
+url = "https://twitter.com/luizdepra/"
+
+[[languages.en.params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/luizdepra/"
+
+[[languages.en.params.social]]
+name = "RSS"
+icon = "fa fa-rss-square"
+weight = 4
+url = "/en/index.xml"
+
+[[languages.en.menu.main]]
+name = "Now"
+weight = 1
+url = "now/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 3
+url = "about/"
+
+[languages.pt-br]
+languageName = ":brazil:"
+
+[languages.pt-br.params]
+description = "Site pessoal e blog de Luiz de Prá"
+keywords = "blog,desenvolvedor,pessoal,software,python,c++,go,rust"
+info = "Desenvolvedor de Software e Jogos"
+
+[[languages.pt-br.params.social]]
+name = "Github"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/luizdepra/"
+
+[[languages.pt-br.params.social]]
+name = "Twitter"
+icon = "fa fa-twitter"
+weight = 2
+url = "https://twitter.com/luizdepra/"
+
+[[languages.pt-br.params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/luizdepra/"
+
+[[languages.pt-br.params.social]]
+name = "RSS"
+icon = "fa fa-rss-square"
+weight = 4
+url = "/pt-br/index.xml"
+
+[[languages.pt-br.menu.main]]
+name = "Agora"
+weight = 1
+url = "agora/"
+
+[[languages.pt-br.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 3
+url = "sobre/"
