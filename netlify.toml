@@ -1,36 +1,46 @@
 [build]
-    publish = "public"
-    command = "hugo --gc --minify --baseURL $URL"
+publish = "public"
+command = "hugo --gc --minify --baseURL $URL"
 
 [context.production.environment]
-    HUGO_VERSION = "0.79.0"
+HUGO_VERSION = "0.79.0"
 
 [[redirects]]
-  from = "https://luizdepra.com/*"
-  to = "https://luizdepra.dev/:splat"
-  status = 301
-  force = true
+from = "https://luizdepra.com/*"
+to = "https://luizdepra.dev/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "https://www.luizdepra.com/*"
-  to = "https://luizdepra.dev/:splat"
-  status = 301
-  force = true
+from = "https://www.luizdepra.com/*"
+to = "https://luizdepra.dev/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "https://luizdepra.com.br/*"
-  to = "https://luizdepra.dev/:splat"
-  status = 301
-  force = true
+from = "https://luizdepra.com.br/*"
+to = "https://luizdepra.dev/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "https://www.luizdepra.com.br/*"
-  to = "https://luizdepra.dev/:splat"
-  status = 301
-  force = true
+from = "https://www.luizdepra.com.br/*"
+to = "https://luizdepra.dev/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "https://luizdepra-website.netlify.com/*"
-  to = "https://luizdepra.dev/:splat"
-  status = 301
-  force = true
+from = "https://luizdepra-website.netlify.com/*"
+to = "https://luizdepra.dev/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "/en/*"
+to = "/en/404.html"
+status = 404
+
+[[redirects]]
+from = "/pt-br/*"
+to = "/pt-br/404.html"
+status = 404
