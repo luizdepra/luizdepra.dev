@@ -34,7 +34,7 @@ customCSS = ["css/custom.css", "css/syntax.css"]
 [params.goatCounter]
 code = "luizdepra"
 
-[params.utteranc]
+[params.utterances]
 repo = "luizdepra/luizdepra.com"
 issueTerm = "pathname"
 theme = "github-dark"
