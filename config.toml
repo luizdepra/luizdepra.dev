@@ -82,8 +82,13 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Uses"
 weight = 3
+url = "uses/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 4
 url = "about/"
 
 [languages.pt-br]
@@ -129,6 +134,11 @@ weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Usos"
 weight = 3
+url = "usos/"
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 4
 url = "sobre/"
