@@ -8,7 +8,7 @@ slug = "now"
 - Maintaining [hugo-coder][coder], a minimalist blog theme for Hugo.
 - Learning about [fantasy consoles][fc] such as [PICO-8][pico8], [LIKO-12][liko12] and [TIC-80][tic80], and build one on my own, [SN-50][sn50].
 - Trying to build my own [Zettelkasten][zettel].
-- Reading **Animal Farm** and **The Mythical Man-Month**.
+- Reading **Mentes Inquietas** and **The Mythical Man-Month**.
 - Staying at home. Be safe.
 
 ---

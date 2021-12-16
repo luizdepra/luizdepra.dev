@@ -26,8 +26,7 @@ avatarURL = "images/avatar.jpg"
 
 dateFormat = "2006-01-02"
 
-colorScheme = "dark"
-hideColorSchemeToggle = true
+colorScheme = "auto"
 
 customCSS = ["css/custom.css", "css/syntax.css"]
 
@@ -49,25 +48,25 @@ info = "Software Engineer and Game Developer"
 
 [[languages.en.params.social]]
 name = "Github"
-icon = "fa fa-github"
+icon = "fa fa-github fa-2x"
 weight = 1
 url = "https://github.com/luizdepra/"
 
 [[languages.en.params.social]]
 name = "Twitter"
-icon = "fa fa-twitter"
+icon = "fa fa-twitter fa-2x"
 weight = 2
 url = "https://twitter.com/luizdepra/"
 
 [[languages.en.params.social]]
 name = "LinkedIn"
-icon = "fa fa-linkedin"
+icon = "fa fa-linkedin fa-2x"
 weight = 3
 url = "https://www.linkedin.com/in/luizdepra/"
 
 [[languages.en.params.social]]
 name = "RSS"
-icon = "fa fa-rss-square"
+icon = "fa fa-rss-square fa-2x"
 weight = 4
 url = "/en/index.xml"
 
@@ -101,25 +100,25 @@ info = "Desenvolvedor de Software e Jogos"
 
 [[languages.pt-br.params.social]]
 name = "Github"
-icon = "fa fa-github"
+icon = "fa fa-github fa-2x"
 weight = 1
 url = "https://github.com/luizdepra/"
 
 [[languages.pt-br.params.social]]
 name = "Twitter"
-icon = "fa fa-twitter"
+icon = "fa fa-twitter fa-2x"
 weight = 2
 url = "https://twitter.com/luizdepra/"
 
 [[languages.pt-br.params.social]]
 name = "LinkedIn"
-icon = "fa fa-linkedin"
+icon = "fa fa-linkedin fa-2x"
 weight = 3
 url = "https://www.linkedin.com/in/luizdepra/"
 
 [[languages.pt-br.params.social]]
 name = "RSS"
-icon = "fa fa-rss-square"
+icon = "fa fa-rss-square fa-2x"
 weight = 4
 url = "/pt-br/index.xml"
 

@@ -64,7 +64,8 @@ pre {
    * Remove the gray background on active links in IE 10.
    */
 a {
-  background-color: transparent; }
+  background-color: transparent;
+  word-wrap: break-word; }
 
 /**
    * 1. Remove the bottom border in Chrome 57-
@@ -319,7 +320,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 /* FONT PATH
  * -------------------------- */
 @font-face {
-  font-family: 'ForkAwesome';
+  font-family: "ForkAwesome";
   src: url("../fonts/forkawesome-webfont.eot?v=1.2.0");
   src: url("../fonts/forkawesome-webfont.eot?#iefix&v=1.2.0") format("embedded-opentype"), url("../fonts/forkawesome-webfont.woff2?v=1.2.0") format("woff2"), url("../fonts/forkawesome-webfont.woff?v=1.2.0") format("woff"), url("../fonts/forkawesome-webfont.ttf?v=1.2.0") format("truetype"), url("../fonts/forkawesome-webfont.svg?v=1.2.0#forkawesomeregular") format("svg");
   font-weight: normal;
@@ -360,9 +361,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   padding-left: 0;
   margin-left: 2.14285714em;
   list-style-type: none; }
-
-.fa-ul > li {
-  position: relative; }
+  .fa-ul > li {
+    position: relative; }
 
 .fa-li {
   position: absolute;
@@ -370,9 +370,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   width: 2.14285714em;
   top: 0.14285714em;
   text-align: center; }
-
-.fa-li.fa-lg {
-  left: -1.85714286em; }
+  .fa-li.fa-lg {
+    left: -1.85714286em; }
 
 .fa-border {
   padding: .2em .25em .15em;
@@ -473,8 +472,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   line-height: 2em;
   vertical-align: middle; }
 
-.fa-stack-1x,
-.fa-stack-2x {
+.fa-stack-1x, .fa-stack-2x {
   position: absolute;
   left: 0;
   width: 100%;
@@ -489,7 +487,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-inverse {
   color: #fff; }
 
-/* Fork Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 .fa-glass:before {
   content: "\f000"; }
@@ -3024,8 +3022,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   clip: rect(0, 0, 0, 0);
   border: 0; }
 
-.sr-only-focusable:active,
-.sr-only-focusable:focus {
+.sr-only-focusable:active, .sr-only-focusable:focus {
   position: static;
   width: auto;
   height: auto;
@@ -3252,12 +3249,6 @@ figure {
 .fas {
   font-weight: 900; }
 
-img.emoji {
-  height: 1em;
-  width: 1em;
-  margin: 0 0.05em 0 0.1em;
-  vertical-align: -0.1em; }
-
 .content {
   flex: 1;
   display: flex;
@@ -3388,8 +3379,6 @@ img.emoji {
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
-          .centered .about ul li a i {
-            font-size: 3.2rem; }
   .centered .error {
     text-align: center; }
     .centered .error h1 {

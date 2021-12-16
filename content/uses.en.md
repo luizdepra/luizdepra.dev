@@ -8,8 +8,8 @@ slug = "uses"
 
 - **Notebook**: Dell Inspiron 7560 15", Intel i7-7500U 3.5GHz, 16GB, NVIDIA GeForce 940MX
 - **Monitor:** LG UltraWide 34"
-- **Keyboard:** HyperX Alloy FPS Cherry MX Blue US
-- **Mouse:** HyperX Pulsefire Surge RGB
+- **Keyboard:** Keychron K3
+- **Mouse:** Logitech G502 Lightspeed
 - **Headset:** Logitech G935
 
 ## Software
