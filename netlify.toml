@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify --baseURL $URL"
 
 [context.production.environment]
-HUGO_VERSION = "0.91.2"
+HUGO_VERSION = "0.91.1"
 
 [[redirects]]
 from = "https://luizdepra.com/*"
