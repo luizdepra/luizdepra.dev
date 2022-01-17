@@ -34,7 +34,7 @@ customCSS = ["css/custom.css", "css/syntax.css"]
 code = "luizdepra"
 
 [params.utterances]
-repo = "luizdepra/luizdepra.com"
+repo = "luizdepra/luizdepra.dev"
 issueTerm = "pathname"
 theme = "github-dark"
 
