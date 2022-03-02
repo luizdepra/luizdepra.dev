@@ -14,7 +14,7 @@ slug = "uses"
 
 ## Software
 
-- **SO:** Manjaro Linux
+- **OS:** Manjaro Linux
 - **WM:** KDE Plasma 5
 - **Browser:** Firefox
 - **Terminal:** Alacritty
