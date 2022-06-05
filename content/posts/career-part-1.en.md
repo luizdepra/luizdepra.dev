@@ -2,6 +2,7 @@
 title: "History and Carreer, Part 1: Childhood and study"
 date: 2020-02-14
 slug: history-carreer-part-1
+images: ["images/og_cover_2.png"]
 tags: ["carreer", "personal"]
 categories: ["carreer"]
 series: ["History and Carreer"]

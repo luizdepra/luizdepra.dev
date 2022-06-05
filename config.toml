@@ -23,6 +23,7 @@ tag = "tags"
 [params]
 author = "Luiz de Prá"
 avatarURL = "images/avatar.jpg"
+images = ["images/og_cover.png"]
 
 dateFormat = "2006-01-02"
 
