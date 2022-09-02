@@ -8,13 +8,15 @@ series: ["Reviewing Old Code"]
 draft: false
 ---
 
-A few days ago I was browsing my Gist collection when I came across a pair of old Python codes, Python 2 to be precise. I wrote these lines 7 years ago when I was recently introduced to Python by a friend of mine, [Rodrigo Delduca][skhaz]. So I thought "Why not review them?", and here we are.
+{{< notice warning >}}Desculpe. Ainda não tive tempo de reescrever esse post em Português. Mas não se preocupe, ele pode ser facilmente traduzido com o Google Translator. Tente [aqui](https://translate.google.com/translate?sl=en&tl=pt&u=https%3A%2F%2Fluizdepra.dev%2Fposts%2Freviewing-old-code-7yo-python-code%2F).{{< /notice >}}
+
+A few days ago I was browsing my Gist collection when I came across a pair of old Python codes, Python 2 to be precise. I wrote these lines 7 years ago when I was recently introduced to Python by a coworker. So I thought "Why not review them?", and here we are.
 
 Before we start let me tell that both scripts are about game development, more precisely procedural terrain generation. Let's take a look at them.
 
 ## Spiral Flood
 
-``` python
+```python
 # Don't work =(
 
 tiles = []
@@ -56,7 +58,7 @@ If I recall correctly, this was a test of an algorithm that creates masses of wa
 
 ## Map Generation
 
-``` python
+```python
 # -*- coding: utf-8 -*-
 # -- MAPGEN.PY --
 

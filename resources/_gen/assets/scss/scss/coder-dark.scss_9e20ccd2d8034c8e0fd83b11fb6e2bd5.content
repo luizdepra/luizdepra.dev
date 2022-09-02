@@ -41,8 +41,9 @@ body.colorscheme-dark {
     background-color: #424242;
     color: #dadada; }
   body.colorscheme-dark .highlight pre {
-    color: #212121; }
-  body.colorscheme-dark pre code {
+    background-color: #424242;
+    color: #dadada; }
+  body.colorscheme-dark :not(.highlight) > pre code {
     background-color: inherit;
     color: inherit; }
   body.colorscheme-dark blockquote {
@@ -110,8 +111,9 @@ body.colorscheme-dark {
       background-color: #424242;
       color: #dadada; }
     body.colorscheme-auto .highlight pre {
-      color: #212121; }
-    body.colorscheme-auto pre code {
+      background-color: #424242;
+      color: #dadada; }
+    body.colorscheme-auto :not(.highlight) > pre code {
       background-color: inherit;
       color: inherit; }
     body.colorscheme-auto blockquote {
@@ -232,6 +234,27 @@ body.colorscheme-dark .navigation .menu-button i:hover, body.colorscheme-dark .n
       color: #42a5f5; }
   body.colorscheme-auto .navigation .menu-button i:hover, body.colorscheme-auto .navigation .menu-button i:focus {
     color: #dadada; } }
+
+body.colorscheme-dark .tabs label.tab-label {
+  background-color: #424242;
+  border-color: #4f4f4f; }
+
+body.colorscheme-dark .tabs input.tab-input:checked + label.tab-label {
+  background-color: #212121; }
+
+body.colorscheme-dark .tabs .tab-content {
+  background-color: #212121;
+  border-color: #4f4f4f; }
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .tabs label.tab-label {
+    background-color: #424242;
+    border-color: #4f4f4f; }
+  body.colorscheme-auto .tabs input.tab-input:checked + label.tab-label {
+    background-color: #212121; }
+  body.colorscheme-auto .tabs .tab-content {
+    background-color: #212121;
+    border-color: #4f4f4f; } }
 
 body.colorscheme-dark .taxonomy-element {
   background-color: #424242; }
