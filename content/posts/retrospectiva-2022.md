@@ -22,7 +22,7 @@ Estou tomando toda a suplementação necessária, inclusive tomando whey que eu 
 
 A academia também entrou para a rotina. O engraçado é que os exercícios físicos param de serem chatos e de causar tanta preguiça. Acho que o fatores que mais ajudaram são: não fazer mais academia sozinho; e estar sendo acompanhado por um personal trainer atencioso, numa academia menor, de bairro, frequentada por pessoas normais.
 
-Suspeiro que eu tenha algum grau de TDAH. Nas conversar com a minha psicologa, nós notamos que eu tenho muitas caracteristicas em comum com quem é diagnosticado. Porém, isso não basta para um diagnóstico, e eu preciso ir num psiquiatra para confirmar. Mas, as dicas relacionadas a foco, hábitos e rotinas estão me ajudando bastante.
+Suspeiro que eu tenha algum grau de TDAH. Nas conversas com a minha psicologa, nós notamos que eu tenho muitas caracteristicas em comum com quem é diagnosticado. Porém, isso não basta para um diagnóstico, e eu preciso ir num psiquiatra para confirmar. Mas, as dicas relacionadas a foco, hábitos e rotinas estão me ajudando bastante.
 
 As únicas coisas que me incomodam ainda são: os efeitos colaterais por não ter mais vesícula biliar; e um desconforto na região final da coluna quando fico sentado por muito tempo. Preciso marcar uma consulta para ver isso. Eu também consegui deslocar meu joelho duas vezes ao levantar da cama. `¯\_(ツ)_/¯`
 
