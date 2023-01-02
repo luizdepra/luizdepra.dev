@@ -16,7 +16,7 @@ Esse site ficou completamente parado assim como nos anos anteriores. Até fiz um
 
 ## Saúde
 
-A minha saúde teve seus altos e baixo. A bariátrica que fiz em 2021 causou alguns um certo impacto na parte física e mental. Porém, com acompanhamento médico, alimentação adequada e exercícios físicos, e apoio mutuo entre mim e minha esposa, tenho me sentido muito melhor agora.
+A minha saúde teve seus altos e baixo. A bariátrica que fiz em 2021 causou um certo impacto na parte física e mental. Porém, com acompanhamento médico, alimentação adequada e exercícios físicos, e apoio mutuo entre mim e minha esposa, tenho me sentido muito melhor agora.
 
 Estou tomando toda a suplementação necessária, inclusive tomando whey que eu tanto detesto. Sabe aquele pozinho de proteína com gostinho de osso queimado com serragem. Delícia! 🤮 E, não tenho mais precisado de remédios para controlar a pressão ou a ansiedade. Mantive consultas regulares com psicologa, nutróloga e nutricionista.
 
