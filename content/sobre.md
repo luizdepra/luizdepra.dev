@@ -4,7 +4,7 @@ title = "Sobre Mim"
 slug = "sobre"
 +++
 
-{{< figure src="/images/us.jpg" alt="She and I" class="right-aligned" >}}
+{{< figure src="/images/us.jpg" alt="Ela e Eu" class="right-aligned" >}}
 
 Meu nome é Luiz de Prá, sou de Curitiba, Paraná, Brasil. Moro com minha bela esposa :woman: e nossa cachorrinha :dog:. Sou formado em Bacharelado em Ciência da Computação pela [Universidade Federal do Paraná][ufpr], e sou Especialista em Desenvolvimento de Jogos Eletrônicos pela [Pontifícia Universidade Católica do Paraná][pucpr]. Atualmente trabalho como desenvolvedor back-end, usando Python para construir APIs Rest, microsserviços e outros projetos bacanas.
 
