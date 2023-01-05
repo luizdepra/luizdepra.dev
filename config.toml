@@ -56,16 +56,22 @@ weight = 2
 url = "https://twitter.com/luizdepra/"
 
 [[params.social]]
+name = "Twitter"
+icon = "fa fa-mastodon fa-2x"
+weight = 3
+url = "https://mastodon.gamedev.place/@luizdepra"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin fa-2x"
-weight = 3
+weight = 4
 url = "https://www.linkedin.com/in/luizdepra/"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-rss-square fa-2x"
-weight = 4
-url = "/pt-br/index.xml"
+weight = 5
+url = "/posts/index.xml"
 
 [[menu.main]]
 name = "Agora"
