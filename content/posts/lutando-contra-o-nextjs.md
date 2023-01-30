@@ -1,7 +1,7 @@
 ---
 title: "Lutando contra o Next.js"
 date: 2023-01-29
-slug: "lutando-contra-on-extjs"
+slug: "lutando-contra-on-nextjs"
 tags: ["next.js", "front-end"]
 categories: ["front-end"]
 draft: false

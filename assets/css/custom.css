@@ -1,8 +1,15 @@
-figure.right-aligned > img {
-  float: right;
-  width: 50%;
-  height: 50%;
-  margin: 0 0 2rem 2rem;
+figure.right-aligned>img {
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 0 0 2rem 2rem;
+}
+
+figure.left-aligned>img {
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 0 2rem 2rem 0;
 }
 
 figure.centered {
@@ -10,10 +17,17 @@ figure.centered {
 }
 
 @media only screen and (max-width: 768px) {
-  figure.right-aligned > img {
-    float: none;
-    width: 100%;
-    height: 100%;
-    margin: 0;
-  }
+    figure.right-aligned>img {
+        float: none;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+
+    figure.left-aligned>img {
+        float: none;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
 }
