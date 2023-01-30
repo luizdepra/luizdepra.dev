@@ -15,7 +15,7 @@ Certo, vamos ao que interessa.
 
 ## O projeto
 
-Esse projeto é uma interface "burra", mas isso não é nada ruim. :laugh: Explicando melhor, o projeto é uma UI sem lógicas de negócio ou outras complexidades que não sejam validações e transformações de dados. Ele tem um projeto irmão que chamamos de BFF (Back-end for Front-end), feito em Python com FastAPI, que abstrai as lógicas pesadas e faz acesso às APIs internas.
+Esse projeto é uma interface "burra", mas isso não é nada ruim. 😂 Explicando melhor, o projeto é uma UI sem lógicas de negócio ou outras complexidades que não sejam validações e transformações de dados. Ele tem um projeto irmão que chamamos de BFF (Back-end for Front-end), feito em Python com FastAPI, que abstrai as lógicas pesadas e faz acesso às APIs internas.
 
 Temos 3 ambientes onde o projeto é executado: integração, pre-produção e produção. Variáveis de ambiente são interessantes para esse projeto, pois podemos configurá-lo conforme o local em que ele vai ser disponibilizado. Cada ambiente é um cluster Kubernetes separado, então criamos imagens Docker do projeto para cada versão do projeto.
 
@@ -46,9 +46,11 @@ Tentamos configurar o Sentry apenas nas páginas de erro, mas existem alguns err
 
 ## Conclusão
 
-Pesquisamos várias opções e nenhuma se encaixava com o nosso cenário. Pedi ajuda para alguns amigos mais experientes em front-end, mas ninguém tinha trabalhado com requisitos semelhantes aos que eu tinha. Então desistimos. **O framework venceu!** Optamos por manter uma imagem Docker por ambiente, e paciência. Infelizmente a necessidade de rodar código gerado e empacotado no browser não proporciona o dinamismo de configuração da mesma que executando no servidor.
+Pesquisamos várias opções e nenhuma se encaixava com o nosso cenário. Pedi ajuda para alguns amigos mais experientes em front-end, mas ninguém tinha trabalhado com requisitos semelhantes aos que eu tinha. Então desistimos. O framework venceu! Ou será que foi culpa do Docker? 😂
 
-Lição aprendida! ~~Nunca mais vou usar frameworks de front-end e vou renderizar tudo no back-end. Talvez com Django...~~
+Optamos por manter uma imagem Docker por ambiente, e paciência. Infelizmente a necessidade de rodar código gerado e empacotado no browser não proporciona o dinamismo de configuração da mesma forma que executando num servidor.
+
+Lição aprendida! 🫡 ~~Nunca mais vou usar frameworks de front-end e vou renderizar tudo no back-end. Talvez com Django...~~
 
 [^1]: [Variáveis de Ambiente no Next.js](https://nextjs.org/docs/basic-features/environment-variables).
 [^2]: [Renderização de páginas no Next.js](https://nextjs.org/docs/basic-features/pages).
