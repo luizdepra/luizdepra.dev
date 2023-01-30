@@ -41,7 +41,7 @@ code = "luizdepra"
 [params.utterances]
 repo = "luizdepra/luizdepra.dev"
 issueTerm = "pathname"
-theme = "github-dark"
+theme = "dark"
 
 [[params.social]]
 name = "Github"
