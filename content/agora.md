@@ -7,9 +7,8 @@ slug = "agora"
 - Aprendendo sobre a linguagem [Rust][rust] e ajudando a traduzir o seu site para `pt-br`.
 - Mantendo o [hugo-coder][coder], um tema para blogs criados com Hugo.
 - Aprendendo sobre [fantasy consoles][fc], como o [PICO-8][pico8], [LIKO-12][liko12] and o [TIC-80][tic80], e construindo o meu próprio, o [SN-50][sn50].
-- Tentando construir meu [Zettelkasten][zettel].
-- Lendo **Mentes Inquietas** e **O Mítico Homem-Mês** .
-- Ficando em casa. Se cuide.
+- Tentando construir meu [Zettelkasten][zettel] e aprendendo a notar o que leio e aprendo.
+- Lendo **A senhora do lago** e **O Mítico Homem-Mês** .
 
 ---
 
