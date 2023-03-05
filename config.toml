@@ -11,14 +11,14 @@ canonifyURLs = true
 
 enableEmoji = true
 
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-
 [taxonomies]
 category = "categories"
 series = "series"
 tag = "tags"
+
+[markup.highlight]
+style = "github-dark"
+tabWidth = 4
 
 [params]
 author = "Luiz de Prá"
@@ -33,7 +33,7 @@ dateFormat = "2006-01-02"
 colorScheme = "dark"
 hideColorSchemeToggle = true
 
-customCSS = ["css/custom.css", "css/syntax.css"]
+customSCSS = ["scss/custom.scss"]
 
 [params.goatCounter]
 code = "luizdepra"
