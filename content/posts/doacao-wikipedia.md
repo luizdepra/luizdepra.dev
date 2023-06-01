@@ -1,6 +1,6 @@
 ---
 title: "Como a Wikipédia ganhou uma doação"
-date: 2023-01-29
+date: 2023-06-01
 slug: "como-a-wikipedia-ganhou-uma-doacao"
 tags: ["pessoal", "inutilidades"]
 categories: ["pessoal"]
