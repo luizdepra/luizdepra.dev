@@ -19,7 +19,7 @@ slug = "usos"
 - **Browser:** Firefox
 - **Terminal:** Alacritty
 - **Shell:** zsh with zim-fw
-- **Multiplexer:** tmux
+- **Multiplexer:** Zellij
 - **Editor:** VS Code & neovim
 - **Linguagens:** Python, Rust & Go
 - **Site**: Hugo + Github + Netlify

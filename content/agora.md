@@ -7,7 +7,7 @@ slug = "agora"
 - Mantendo o [hugo-coder][coder], um tema para blogs criados com Hugo.
 - Aprendendo sobre [fantasy consoles][fc], como o [PICO-8][pico8], [LIKO-12][liko12] and o [TIC-80][tic80], e construindo o meu próprio, o [SN-50][sn50].
 - Tentando construir meu [Zettelkasten][zettel] e aprendendo a notar o que leio e aprendo.
-- Lendo **Fogo & Sangue** e **Hell Yeah Or No** .
+- Lendo **A mão esquerda da escuridão** e **Hell Yeah Or No** .
 
 ---
 
