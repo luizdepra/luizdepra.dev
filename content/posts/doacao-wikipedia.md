@@ -1,10 +1,14 @@
 ---
 title: "Como a Wikipédia ganhou uma doação"
-date: 2023-06-01
+date: "2023-06-01"
 slug: "como-a-wikipedia-ganhou-uma-doacao"
-tags: ["pessoal", "inutilidades"]
-categories: ["pessoal"]
+tags: ["personal", "random"]
+categories: ["personal"]
 draft: false
+---
+
+{{< translator >}}
+
 ---
 
 Era uma típica quarta-feira cinzenta em Curitiba. Eu estava trabalhando normalmente, tentando ignorar os sinais de uma possível gripe que estava por vir. Minha tarefa era relativamente simples: adaptar um modelo de dados para suportar dois formatos de contrato diferentes em uma API que em breve passaria por uma atualização. Esse atividade exigia um pouco mais de concentração, então eu costumo colocar alguma música calma, sem letra ou vocais. Tinha duas opções: Spotify ou Youtube. Optei pelo Youtube, pois já estava com meu navegador aberto na sessão com os canais que sou inscrito. Foi quando notei que o canal [Computerphile][computerphile] havia lançado um novo vídeo sobre os [50 anos da Ethernet][50y-ethernet]. Computerphile é um canal interessante para quem gosta dessas coisas de computador.

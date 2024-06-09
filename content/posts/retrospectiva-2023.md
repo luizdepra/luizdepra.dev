@@ -2,10 +2,14 @@
 title: "Retrospectiva 2023"
 date: "2024-01-03"
 slug: retrospectiva-2023
-tags: ["retrospectiva", "recap"]
-categories: ["Retrospectiva"]
-series: ["Retrospectiva Anual"]
+tags: ["retrospective", "recap"]
+categories: ["Retrospective"]
+series: ["Retrospective"]
 draft: false
+---
+
+{{< translator >}}
+
 ---
 
 Lá se vai 2023, e aqui vai um rápido resumo.

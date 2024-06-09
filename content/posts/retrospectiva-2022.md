@@ -1,11 +1,15 @@
 ---
 title: "Retrospectiva 2022"
-date: 2023-01-02
+date: "2023-01-02"
 slug: retrospectiva-2022
-tags: ["retrospectiva", "recap"]
-categories: ["Retrospectiva"]
-series: ["Retrospectiva Anual"]
+tags: ["retrospective", "recap"]
+categories: ["Retrospective"]
+series: ["Retrospective"]
 draft: false
+---
+
+{{< translator >}}
+
 ---
 
 E 2022 chega ao seu fim. Qeuro começar 2023 tentando mudar algumas coisas, mas primeiro vamos rever como foi o ano anterior. Bora lá.

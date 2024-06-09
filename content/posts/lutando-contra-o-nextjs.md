@@ -1,10 +1,14 @@
 ---
 title: "Lutando contra o Next.js"
-date: 2023-01-29
+date: "2023-01-29"
 slug: "lutando-contra-o-nextjs"
 tags: ["next.js", "front-end"]
-categories: ["front-end"]
+categories: ["Front-end"]
 draft: false
+---
+
+{{< translator >}}
+
 ---
 
 … e perdendo miseravelmente. Ou como eu tentei lidar com variáveis de ambiente em client e server-side no Next.js num ambiente dockerizado.

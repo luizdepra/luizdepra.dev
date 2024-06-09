@@ -1,16 +1,14 @@
 ---
-title: "Reviewing Old Code: 7yo Python Code"
-date: 2019-06-19
-slug: reviewing-old-code-7yo-python-code
+title: "Reviewing Old Code: Python"
+date: "2019-06-19"
+slug: reviewing-old-code-python
 tags: ["python", "code review"]
 categories: ["Software Development"]
 series: ["Reviewing Old Code"]
 draft: false
 ---
 
-{{< notice warning >}}Desculpe. Ainda não tive tempo de reescrever esse post em Português. Mas não se preocupe, ele pode ser facilmente traduzido com o Google Translator. Tente [aqui](https://translate.google.com/translate?sl=en&tl=pt&u=https%3A%2F%2Fluizdepra.dev%2Fposts%2Freviewing-old-code-7yo-python-code%2F).{{< /notice >}}
-
-A few days ago I was browsing my Gist collection when I came across a pair of old Python codes, Python 2 to be precise. I wrote these lines 7 years ago when I was recently introduced to Python by a coworker. So I thought "Why not review them?", and here we are.
+A few days ago I was browsing my Gist collection when I came across a pair of old Python codes, Python 2 to be precise. I wrote these lines in 2012 when I was recently introduced to Python by a coworker. So I thought "Why not review them?", and here we are.
 
 Before we start let me tell that both scripts are about game development, more precisely procedural terrain generation. Let's take a look at them.
 
