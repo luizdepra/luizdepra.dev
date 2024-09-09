@@ -6,7 +6,7 @@ slug = "about"
 
 My name is Luiz de Prá, I'm from Curitiba, Paraná, Brazil. I live with my beautiful wife :woman: and our furry dog :dog:. I have a bachelor's degree in Computer Science from [Universidade Federal do Paraná][ufpr], and a game development specialization from [Pontifícia Universidade Católica do Paraná][pucpr]. Currently, I'm working as a back-end developer, making REST APIs, microservices and other cool things.
 
-{{< figure src="/images/us.jpg" alt="Ela e Eu" caption="Ela e Eu" width="50%" >}}
+{{< figure src="/images/us.jpg" alt="She and me" caption="She and me" width="50%" >}}
 
 
 I'm interested in different software engineering subjects such as data structures, algorithms, protocols, architecture, design patterns, etc. I really enjoy learning and trying new tools and languages. Have you heard about the Rust language? :stuck_out_tongue:
