@@ -15,11 +15,11 @@ Recently, I started to try to engage more in the open-source and game developmen
 
 {{< figure src="/images/nina.jpg" alt="Nina" caption="Nina" width="50%" >}}
 
-So, this is my blog, one of my most procrastinated projects. I wish you could learn something from here. If you want to stay in touch, leave a comment or reach me at [Twitter][twitter] or [Mastodon][mastodon]. You should check my projects at [Github][github], and don't forget to subscribe to this blog's [RSS feed][feed] hehehe.
+So, this is my blog, one of my most procrastinated projects. I wish you could learn something from here. If you want to stay in touch, leave a comment or reach me at [Bluesky][bsky] or [Mastodon][mastodon]. You should check my projects at [Github][github], and don't forget to subscribe to this blog's [RSS feed][feed] hehehe.
 
 [ufpr]: http://www.ufpr.br
 [pucpr]: https://www.pucpr.br
-[twitter]: https://twitter.com/luizdepra
+[bsky]: https://bsky.app/profile/luizdepra.dev
 [mastodon]: https://mastodon.gamedev.place/@luizdepra
 [github]: https://github.com/luizdepra
 [feed]: /index.xml
