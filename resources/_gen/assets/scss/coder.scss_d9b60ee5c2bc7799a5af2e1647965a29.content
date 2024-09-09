@@ -314,7 +314,7 @@ template {
   font-family: var(--fa-style-family, "Font Awesome 6 Free");
   font-weight: var(--fa-style, 900); }
 
-.fa-solid, .content article a:where(.external-link)::after,
+.fa-solid, .content article a:where(.external-link):not(:has(img)):after,
 .fa-regular,
 .fa-brands,
 .fas,
@@ -334,7 +334,7 @@ template {
 .fas,
 .fa-classic,
 .fa-solid,
-.content article a:where(.external-link)::after,
+.content article a:where(.external-link):not(:has(img)):after,
 .far,
 .fa-regular {
   font-family: 'Font Awesome 6 Free'; }
@@ -343,7 +343,7 @@ template {
 .fa-brands {
   font-family: 'Font Awesome 6 Brands'; }
 
-.content article a:where(.external-link)::after {
+.content article a:where(.external-link):not(:has(img)):after {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: inline-block;
@@ -6568,7 +6568,7 @@ readers do not read off random characters that represent icons */
 
 .fas,
 .fa-solid,
-.content article a:where(.external-link)::after {
+.content article a:where(.external-link):not(:has(img)):after {
   font-weight: 900; }
 
 /*!
@@ -10624,7 +10624,7 @@ figure {
         .content header h1 {
           font-size: 4rem;
           line-height: 4.4rem; } }
-  .content article a:where(.external-link)::after {
+  .content article a:where(.external-link):not(:has(img)):after {
     content: "\f08e";
     padding-left: 0.5em;
     font-size: 0.75em; }
